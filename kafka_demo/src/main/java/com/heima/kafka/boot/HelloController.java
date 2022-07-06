@@ -36,4 +36,8 @@ public class HelloController {
         kafkaTemplate.send("kafka-demo",value);
         return "发送成功";
     }
+
+    /**
+     * 注释说明
+     * */
 }
