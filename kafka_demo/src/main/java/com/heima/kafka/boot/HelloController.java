@@ -18,7 +18,7 @@ public class HelloController {
     private KafkaTemplate<String,String> kafkaTemplate;
 
     /**
-     * 发送消息
+     * 发送消息发送消息了吧
      * */
     @GetMapping
     public String hello(){
