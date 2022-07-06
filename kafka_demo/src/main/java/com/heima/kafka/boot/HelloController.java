@@ -18,7 +18,7 @@ public class HelloController {
     private KafkaTemplate<String,String> kafkaTemplate;
 
     /**
-     * 发送消息乐乐乐乐
+     * 发送消息乐乐乐乐111122233
      *
      * */
     @GetMapping
