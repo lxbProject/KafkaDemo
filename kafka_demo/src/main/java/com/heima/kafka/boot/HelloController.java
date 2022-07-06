@@ -27,7 +27,7 @@ public class HelloController {
     }
 
     /**
-     *
+     *111222
      * */
     @GetMapping("bean")
     public String hello2(){
