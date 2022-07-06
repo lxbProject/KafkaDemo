@@ -19,7 +19,7 @@ public class HelloController {
 
     /**
      * 发送消息乐乐乐乐
-     * 发送消息发送消息了吧
+     *
      * */
     @GetMapping
     public String hello(){
